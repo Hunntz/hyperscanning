@@ -1,0 +1,25 @@
+Onset,Annotation
++145.2421472,Trigger Input 960
++208.9607776,Trigger Input 7
++234.4842944,Trigger Input 8
++263.4842944,Trigger Input 9
++278.4842944,Trigger Input 131
++474.9607776,Trigger Input 9
++474.9607776,Trigger Input 132
++631.6014624,Trigger Input 9
++646.6014624,Trigger Input 133
++809.0937344,Trigger Input 9100
++952.8045536,Trigger Input 9
++977.8045536,Trigger Input 134
++1168.4842944,Trigger Input 9
++1168.4842944,Trigger Input 136
++1305.0468672,Trigger Input 9
++1320.0468672,Trigger Input 137
++1625.1640352,Trigger Input 991
++1742.5780288,Trigger Input 9
++1757.5780288,Trigger Input 139
++1964.3358816,Trigger Input 9
++1979.3358816,Trigger Input 1310
++2110.2655808,Trigger Input 955
++2187.8514208,Trigger Input 9
++2187.8514208,Trigger Input 1311
